@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 元旦文艺晚会节目单
-date: 2019-11-31
-categories: test
+date: 2019-12-16
+categories: 活动
 tags: 活动 
 ---
 
